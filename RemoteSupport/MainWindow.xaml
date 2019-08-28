@@ -8,6 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="button" Content="Screen Shot" HorizontalAlignment="Left" Margin="359,350,0,0" VerticalAlignment="Top" Width="75" Click="GetScreenShoot"/>
-        <Image x:Name="image" HorizontalAlignment="Left" Height="300" Margin="195,25,0,0" VerticalAlignment="Top" Width="400" RenderTransformOrigin="-0.217,0.226" />
+        <Image x:Name="ScreenShot" HorizontalAlignment="Left" Height="300" Margin="195,25,0,0" VerticalAlignment="Top" Width="400" RenderTransformOrigin="-0.217,0.226" />
     </Grid>
 </Window>
